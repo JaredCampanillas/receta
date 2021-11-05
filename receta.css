@@ -1,5 +1,5 @@
 body {
-    background-image: url("img/fondo.jpg");
+    background-image: url("../fondo.jpg");
     padding:2%;
     font-family: 'Source Serif Pro', serif;
 }
